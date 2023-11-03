@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(0, 0, 0, 0.938);
+    background-image: url("mask.jpeg");
+    
+    background: rgb(143,147,166);
+background: radial-gradient(circle, rgba(143,147,166,1) 0%, rgba(0,0,0,1) 100%);
+    background-size: 100%;
+   background-blend-mode:difference; 
+}
+
+img {
+    
+    margin-left: ;
+  }
+
+.container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: rgb(255, 255, 255));
+    color:black;
+    margin-top: 15%;
+}
+
+h1,h2 {
+    text-align: center;
+    padding-bottom: 10% ;
+}
+ input[type="text"], input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+input[type="submit"] {
+    background-color: #227a25;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+   
+}
+
+
+
